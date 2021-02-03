@@ -1,0 +1,6 @@
+[package]
+name = 'Lemur'
+author = 'LPGhatguy'
+license = 'MIT'
+version = '0.1.0'
+content_root = './lib'
